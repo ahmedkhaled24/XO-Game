@@ -1,5 +1,7 @@
 # Tic-Tac-Toe-Local---Online-
 
+A simple game that you can play alone or with your friend by using: Firebase, Animation, TableLayout, Material Design
+
 Logo
 
 ![logo](https://user-images.githubusercontent.com/70321297/127262150-704c36df-5e96-4fe6-86f4-33ce132b5bf4.jpeg)
