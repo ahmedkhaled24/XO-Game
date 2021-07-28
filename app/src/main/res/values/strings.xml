@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name" translatable="false">Tic Tac Toe</string>
+    <string name="tic_tac_toe_text">Tic Tac Toe</string>
+    <string name="one_player_text">One Player</string>
+    <string name="two_player_text">Two Player</string>
+    <string name="e_mail_text">E-mail</string>
+    <string name="password_text">Password</string>
+    <string name="login_text">Login</string>
+    <string name="i_don_t_have_an_account_text">I don\'t have an account</string>
+    <string name="sign_up_text">Sign up</string>
+    <string name="user_name_text">User name</string>
+    <string name="confirm_password_text">Confirm password</string>
+    <string name="accept_text">Accept</string>
+    <string name="request_text">Request</string>
+    <string name="invite_your_friend_text">invite your friend</string>
+    <string name="reset_game_text">Reset Game</string>
+    <string name="Enter_your_email_and_password_text">Enter your email and password</string>
+    <string name="CompleteYourData_text">Complete your data</string>
+    <string name="Error_text">Error :</string>
+    <string name="PleaseEnterYourInformation_text">Please, Enter your information</string>
+    <string name="PleaseCompleteYourInformation_text">Please, Complete your information</string>
+    <string name="PasswordsMustBeAtLeast8Digits_text">Passwords must be at least 8 digits</string>
+    <string name="ThePasswordConfirmationIsIncorrect_text">The password confirmation is incorrect</string>
+    <string name="Successful_text">Successful</string>
+    <string name="FailedToCreateUser_text">Failed  to create user :</string>
+    <string name="todo">TODO</string>
+</resources>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashActivity"
+    android:background="@color/colorPrimaryDark"
+    android:gravity="center">
+
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/icon_face"
+        android:id="@+id/image_icon"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="-30dp"/>
+
+    <TextView
+        android:id="@+id/nameIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tic_tac_toe_text"
+        android:textColor="@color/white_color"
+        android:textSize="40sp"
+        android:layout_marginTop="10dp"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/image_icon"/>
+
+    <Button
+        android:layout_marginTop="140dp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/nameIcon"
+        android:layout_centerHorizontal="true"
+        android:text="@string/one_player_text"
+        android:textSize="25dp"
+        android:paddingTop="10dp"
+        android:background="@drawable/design"
+        android:paddingBottom="10dp"
+        android:paddingStart="20dp"
+        android:textColor="@color/player_color"
+        android:fontFamily="sans-serif-medium"
+        android:paddingEnd="20dp"
+        android:id="@+id/onePlayer_id"
+        android:onClick="onePlayerEvent"/>
+
+
+    <Button
+        android:layout_marginTop="20dp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/onePlayer_id"
+        android:layout_centerHorizontal="true"
+        android:text="@string/two_player_text"
+        android:textSize="25dp"
+        android:textColor="@color/player_color"
+        android:background="@drawable/design"
+        android:paddingTop="10dp"
+        android:fontFamily="sans-serif-medium"
+        android:paddingBottom="10dp"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        android:id="@+id/twoPlayer_id"
+        android:onClick="twoPlayerEvent"/>
+
+
+</RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

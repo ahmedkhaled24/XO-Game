@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Tic Tac Toe</string>
+    <string name="tic_tac_toe_text">Tic Tac Toe</string>
+    <string name="one_player_text">لاعب واحد</string>
+    <string name="two_player_text">لاعبين</string>
+    <string name="e_mail_text">البريد الالكتروني</string>
+    <string name="password_text">كلمة السر</string>
+    <string name="login_text">دخول</string>
+    <string name="i_don_t_have_an_account_text">ليس لدي حساب</string>
+    <string name="sign_up_text">انشاء</string>
+    <string name="user_name_text">اسم المستخدم</string>
+    <string name="confirm_password_text">تأكيد كلمة السر</string>
+    <string name="accept_text">موافق</string>
+    <string name="request_text">طلب</string>
+    <string name="invite_your_friend_text">ادعو صديقك</string>
+    <string name="reset_game_text">اعادة اللعب</string>
+    <string name="Enter_your_email_and_password_text">ادخل البريد الالكتروني وكلمة السر</string>
+    <string name="CompleteYourData_text">اكمل بياناتك اولا</string>
+    <string name="Error_text">خطأ : </string>
+    <string name="PleaseEnterYourInformation_text">من فضلك ادخل بياناتك</string>
+    <string name="PleaseCompleteYourInformation_text">من فضلك اكمل بياناتك</string>
+    <string name="PasswordsMustBeAtLeast8Digits_text">كلمة السر يجب الا تكون اقل من 8 ارقام او حروف</string>
+    <string name="ThePasswordConfirmationIsIncorrect_text">كلمتي السر غير متطابقتين</string>
+    <string name="Successful_text">تم بنجاح</string>
+    <string name="FailedToCreateUser_text">فشل انشاء مستخدم جديد : </string>
+</resources>

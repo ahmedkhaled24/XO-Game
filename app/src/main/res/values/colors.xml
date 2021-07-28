@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7e57c2</color>
+    <color name="colorPrimaryDark">#4d2c91</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="playerone">#3E9FB2</color>
+    <color name="playertwo">#FFEA00</color>
+
+    <color name="red">#F30808</color>
+
+    <color name="colorLose">#363636</color>
+
+    <color name="OpenIcon">#59D50D</color>
+    <color name="white_color">#ffffff</color>
+    <color name="player_color">#4d2c91</color>
+    <color name="blue_color">#0A57BD</color>
+    <color name="gray_color">#DDDDDD</color>
+    <color name="gray_katem_color">#3A3838</color>
+    <color name="orange_color">#FFFF9100</color>
+    <color name="grayIcons_color">#ACACAC</color>
+</resources>
