@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-Local---Online-
+# XO-Game (Local & Onlline)
 
 A simple game that you can play alone or with your friend by using: Firebase, Animation, TableLayout, Material Design
 
